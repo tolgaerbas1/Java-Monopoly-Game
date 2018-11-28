@@ -1,4 +1,3 @@
-
 public class Money {
 	private int money;
 	private String type = "$";
